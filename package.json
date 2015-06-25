@@ -1,5 +1,5 @@
 {
-  "name": "generator-hapi-seed",
+  "name": "generator-node-hapi-seed",
   "version": "1.0.0",
   "description": "This generator is intended to be used with https://github.com/ottogiron/node-hapi-seed repository",
   "main": "index.js",
