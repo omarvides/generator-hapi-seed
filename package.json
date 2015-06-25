@@ -1,0 +1,23 @@
+{
+  "name": "generator-hapi-seed",
+  "version": "1.0.0",
+  "description": "This generator is intended to be used with https://github.com/ottogiron/node-hapi-seed repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "hapi",
+    "seed",
+    "generator"
+  ],
+  "author": "Walter Vides",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.20.1"
+  }
+}
